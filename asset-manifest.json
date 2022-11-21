@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadora-cientifica-react/static/css/main.8743bb4d.css",
+    "main.js": "/calculadora-cientifica-react/static/js/main.b2c6bc16.js",
+    "static/media/fondoD.jpg": "/calculadora-cientifica-react/static/media/fondoD.0ff1896ab813998b4221.jpg",
+    "static/media/logo-calculadora.png": "/calculadora-cientifica-react/static/media/logo-calculadora.0922813a7ce4b74ac84c.png",
+    "index.html": "/calculadora-cientifica-react/index.html",
+    "main.8743bb4d.css.map": "/calculadora-cientifica-react/static/css/main.8743bb4d.css.map",
+    "main.b2c6bc16.js.map": "/calculadora-cientifica-react/static/js/main.b2c6bc16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8743bb4d.css",
+    "static/js/main.b2c6bc16.js"
+  ]
+}
