@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed&display=swap');
+
+.boton-contenedor {
+    height: 55px;
+    width: 42px;
+    display: flex;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    background-color: var(--coffee);
+    color: var(--white);
+    border-radius: 5px;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.boton-contenedor:hover {
+    background-color:  #012402;
+}
+
+.operador {
+    background-color: #012402;
+}
+
+.operador:hover {
+    background-color: var(--coffee);
+}
+

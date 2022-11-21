@@ -1,0 +1,20 @@
+.boton-clear {
+  height: 60px;
+  width: 290px;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 1.6em;
+  background-color: var(--mango);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: var(--white);
+  border: 2px solid var(--white);
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none;
+}
+
+.boton-clear:hover {
+  background-color: var(--greenDark);
+}

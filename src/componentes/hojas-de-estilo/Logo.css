@@ -1,0 +1,23 @@
+.logo-contenedor {
+  width: 100%;
+  height: 110px;
+  background-image: url("../../imagenes/fondoD.jpg");
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: flex-start;
+}
+
+.logo {
+  flex: 1;
+  height: 90px;
+  padding: 5px;
+}
+
+.frase {
+  flex: 1;
+  height: 100px;
+  padding: 15px 0 10px 10px;
+  color: white;
+  font-style: italic;
+  text-shadow: 2px 0px 7px var(--coffee);
+}
